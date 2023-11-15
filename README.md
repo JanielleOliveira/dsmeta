@@ -1,4 +1,4 @@
-# dsmeta
+# dsmeta / DevSuperior: Semana Spring React
 APP de Consultas de Vendas
 
 >Front end React, 
